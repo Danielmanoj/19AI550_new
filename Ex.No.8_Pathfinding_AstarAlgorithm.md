@@ -131,6 +131,7 @@ public class AICharacter : MonoBehaviour {
         }
     }
 }
+```
 Check the following
 1. Waypoints placed in scene
 2. Neighbors set manually via Inspector
@@ -138,6 +139,7 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e051351c-6de9-404a-8099-242ab2ebf0f1" />
 
 
 
